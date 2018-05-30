@@ -1,0 +1,20 @@
+{
+  "name": "MyBootstrApp",
+  "homepage": "https://github.com/vcruzzen/DAW_Vanessa_tics",
+  "authors": [
+    "vcruzzen <vanessasuriday.cruz.zenil@alumno.uttehuacan.edu.mx>"
+  ],
+  "description": "How to use bootstrap framework",
+  "main": "index.html",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^4.1.1"
+  }
+}
